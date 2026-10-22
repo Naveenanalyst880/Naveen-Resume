@@ -13,4 +13,4 @@ B.Tech Computer Science student at Rajiv Gandhi Institute of Petroleum Technolog
 - Data Cleaning and Data Visualization
 
 ## Resume
-See the `Katravath_Naveen_Resume.pdf` file in this repository.
+See the Naveen_Resume_data_analytics (1).docx file in this repository.
